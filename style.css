@@ -1,0 +1,6 @@
+Body {font-family:arial, helvetica, arial, sans-serif; color:#000000; font-size: 12pt;}
+A:link, A:visited, A:active { color:#000000; text-decoration:none;}
+A:hover { color:#000000;}
+form { font-family: Times New Roman;FONT-SIZE:8pt; }
+input { background-color: #ECF0F8; FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:8.5pt;COLOR:#000000;BORDER:1px solid black; }
+input.radio {background-color: transparent; BORDER: transparent;}
